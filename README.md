@@ -1,2 +1,9 @@
-# bertie
-erlang github test
+bertie
+=====
+
+An OTP application
+
+Build
+-----
+
+    $ rebar3 compile
